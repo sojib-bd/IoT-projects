@@ -1,0 +1,8 @@
+1. Breadboard
+2. Arduino UNO
+3. 2 push button ( 4pin)
+3. 2 1k/10k registor , 1 220ohm registor
+4. 1 LED
+5. jumping wires
+
+** build the circuit according to the circuit diagram and insert the code 
